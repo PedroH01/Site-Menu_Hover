@@ -15,7 +15,7 @@ A aplicação consiste em um simples menu com 4 opções, porém pode conter mai
 
 # Autor
 
-(Créditos ao canal "CodingLab" no YouTube de onde foi retirado o tutorial)
+(Todos os direitos ao canal "CodingLab" no YouTube de onde foi retirado o tutorial)
 
 Pedro Henrique Silva Bonfim
 
